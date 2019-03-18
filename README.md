@@ -4,5 +4,5 @@ The Doggone Minimal Website is a single web page template that was inspired by o
 
 The template for this web page was from the "Perfect 'Foul-Mouthed' Website.com" who kindly gave permission for others to do with it whatever they pleased. So, I took out the foul-mouthed parts.
 
-Below is a screenshot. But)., the screenshot looks a bit cruddy on a mobile device. The doggone minimal website page can be [viewed online this link](http://br549.mywebcommunity.org/doggone.htm).
+Below is a screenshot. But)., the screenshot looks a bit cruddy on a mobile device. The doggone minimal website page can be [viewed online this link](http://br549.mywebcommunity.org/doggone.htm), where's it's much cleaner. Check it.
 ![doggone.jpg](https://raw.githubusercontent.com/crrdlx/doggone-minimal-website/master/images/doggone.jpg)
